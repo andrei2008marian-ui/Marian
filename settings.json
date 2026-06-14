@@ -8,7 +8,7 @@
   "server": {
     "ip": "leech.aternos.host:16803",
     "port": 16803,
-    "version": "26.1.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
