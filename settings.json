@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tigaita693.aternos.me",
+    "ip": "leech.aternos.host:16803",
     "port": 16803,
     "version": "26.1.2 (69)",
     "try-creative": false
