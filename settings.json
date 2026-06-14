@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tigaita693.aternos.me:16803",
+    "ip": "Tigaita693.aternos.me",
     "port": 16803,
     "version": "",
     "try-creative": false
